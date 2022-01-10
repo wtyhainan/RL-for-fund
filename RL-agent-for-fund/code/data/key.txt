@@ -1,0 +1,10 @@
+fS_name: 基金名称
+fS_code: 基金代码
+stockCodes: 持仓股票
+zqCodesNew: 持仓债券
+Data_fundSharesPositions: 股票仓位规模
+fundSize: 基金规模
+fund_Rate: 现申购费率
+Data_netWorthTrend: 涨跌幅数据
+Data_ACWorthTrend: 累计收益
+
